@@ -6,7 +6,7 @@
 
 # 3. Write a Java program to declare two int variables, store two numbers in them, and display their sum, difference, multiplication, and division.
 
-# 4. Write a Java program to declare a double variable for the price of a product and an int variable for quantity. Calculate and display the total p#rice.
+# 4. Write a Java program to declare a double variable for the price of a product and an int variable for quantity. Calculate and display the total price.
 
 # 5. Write a Java program to declare float variables for marks in three subjects and calculate and display the total marks and average marks.
 
